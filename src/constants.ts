@@ -29,4 +29,4 @@ export const DEFAULT_OPTIONS: Omit<RunnerOptions, 'inputDir' | 'outputDir'> = {
   getIconId: getIconId
 };
 
-export const DEFAULT_START_CODEPOINT = 0xf101;
+export const DEFAULT_START_CODEPOINT = 0xe000;
